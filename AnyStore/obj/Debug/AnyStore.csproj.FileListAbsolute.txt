@@ -1,0 +1,622 @@
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\bin\Debug\AnyStore.exe.config
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\bin\Debug\AnyStore.exe
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\bin\Debug\AnyStore.pdb
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\obj\Debug\AnyStore.csprojResolveAssemblyReference.cache
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\obj\Debug\AnyStore.frmAdminDashboard.resources
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\obj\Debug\AnyStore.Properties.Resources.resources
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\obj\Debug\AnyStore.csproj.GenerateResource.Cache
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\obj\Debug\AnyStore.exe
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\obj\Debug\AnyStore.pdb
+C:\Users\vijaythapa333\Desktop\AnyStore\AnyStore\obj\Debug\AnyStore.frmUserDashboard.resources
+C:\Users\vijaythapa333\Desktop\anystore\AnyStore\obj\Debug\AnyStore.UI.frmUsers.resources
+C:\Users\vijaythapa333\Desktop\anystore\AnyStore\obj\Debug\AnyStore.UI.frmLogin.resources
+C:\Users\vijaythapa333\Desktop\anystore\AnyStore\obj\Debug\AnyStore.UI.frmCategories.resources
+C:\Users\vijaythapa333\Desktop\anystore\AnyStore\obj\Debug\AnyStore.UI.frmProducts.resources
+C:\Users\vijaythapa333\Desktop\anystore\AnyStore\obj\Debug\AnyStore.UI.frmDeaCust.resources
+C:\Users\vijaythapa333\Desktop\anystore\AnyStore\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+C:\Users\vijaythapa333\Desktop\anystore\AnyStore\obj\Debug\AnyStore.UI.frmTransactions.resources
+C:\Users\vijaythapa333\Desktop\anystore\AnyStore\obj\Debug\AnyStore.UI.frmInventory.resources
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\bin\Debug\AnyStore.exe.config
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\bin\Debug\AnyStore.exe
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\bin\Debug\AnyStore.pdb
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.frmAdminDashboard.resources
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCategories.resources
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmDeaCust.resources
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmInventory.resources
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmLogin.resources
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmProducts.resources
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmTransactions.resources
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.frmUserDashboard.resources
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.Properties.Resources.resources
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmUsers.resources
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.exe
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.pdb
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRooms.resources
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRoomPayment.resources
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmAddCustmrToRoom.resources
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCheckOut.resources
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmEditRoomsDetails.resources
+C:\Users\Administrator\Desktop\anystore-master\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmStatistics.resources
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\bin\Debug\AnyStore.exe.config
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\bin\Debug\AnyStore.exe
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\bin\Debug\AnyStore.pdb
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmAddCustmrToRoom.resources
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.frmAdminDashboard.resources
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCategories.resources
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCheckOut.resources
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmDeaCust.resources
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmEditRoomsDetails.resources
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmInventory.resources
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmLogin.resources
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmProducts.resources
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRoomPayment.resources
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRooms.resources
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmStatistics.resources
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmTransactions.resources
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.frmUserDashboard.resources
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.Properties.Resources.resources
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmUsers.resources
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.exe
+C:\Users\Administrator\Desktop\any store edit\anystore-master\AnyStore\obj\Debug\AnyStore.pdb
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\bin\Debug\AnyStore.exe.config
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\bin\Debug\AnyStore.exe
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\bin\Debug\AnyStore.pdb
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmAddCustmrToRoom.resources
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.frmAdminDashboard.resources
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCategories.resources
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCheckOut.resources
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmDeaCust.resources
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmEditRoomsDetails.resources
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmInventory.resources
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmLogin.resources
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmProducts.resources
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmReceipt.resources
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRoomPayment.resources
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRooms.resources
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmStatistics.resources
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmTransactions.resources
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.frmUserDashboard.resources
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.Properties.Resources.resources
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmUsers.resources
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.CopyComplete
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.exe
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.pdb
+C:\Users\Administrator\Desktop\any store edit\version 6 before adding new dgv printer\anystore-master\AnyStore\obj\Debug\AnyStore.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\AnyStore.exe.config
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\AnyStore.exe
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\AnyStore.pdb
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmAddCustmrToRoom.resources
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.frmAdminDashboard.resources
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCategories.resources
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCheckOut.resources
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmDeaCust.resources
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmEditRoomsDetails.resources
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmInventory.resources
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmLogin.resources
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmProducts.resources
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmReceipt.resources
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRoomPayment.resources
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRooms.resources
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmStatistics.resources
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmTransactions.resources
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.frmUserDashboard.resources
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmUsers.resources
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.exe
+C:\Users\Administrator\Desktop\Nature Love\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.pdb
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\AnyStore.exe.config
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\AnyStore.exe
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\AnyStore.pdb
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmAddCustmrToRoom.resources
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.frmAdminDashboard.resources
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCategories.resources
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCheckOut.resources
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmDeaCust.resources
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmEditRoomsDetails.resources
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmInventory.resources
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmLogin.resources
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmProducts.resources
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmReceipt.resources
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRoomPayment.resources
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRooms.resources
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmStatistics.resources
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmTransactions.resources
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.frmUserDashboard.resources
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.Properties.Resources.resources
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmUsers.resources
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.CopyComplete
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.exe
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.pdb
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 8 reportr printer working\anystore-master\AnyStore\obj\Debug\AnyStore.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmAddCustmrToRoom.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.frmAdminDashboard.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCategories.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCheckOut.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmDeaCust.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmEditRoomsDetails.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmInventory.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmLogin.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmProducts.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmReceipt.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRoomPayment.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRooms.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmStatistics.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmTransactions.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.frmUserDashboard.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.Properties.Resources.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmUsers.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.exe
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.pdb
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\AnyStore.exe.config
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\AnyStore.exe
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\AnyStore.pdb
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRecieptCheckout.resources
+C:\Users\Administrator\Desktop\any store edit\version 9 reportr printer ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.CopyComplete
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\AnyStore.exe.config
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\AnyStore.exe
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\AnyStore.pdb
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmAddCustmrToRoom.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.frmAdminDashboard.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCategories.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCheckOut.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmDeaCust.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmEditRoomsDetails.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmInventory.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmLogin.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmProducts.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmReceipt.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRecieptCheckout.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRoomPayment.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRooms.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmStatistics.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmTransactions.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.frmUserDashboard.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.Properties.Resources.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmUsers.resources
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.CopyComplete
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.exe
+C:\Users\Administrator\Desktop\any store edit\version 10 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.pdb
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\AnyStore.exe.config
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\AnyStore.exe.manifest
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\AnyStore.application
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\AnyStore.exe
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\AnyStore.pdb
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmAddCustmrToRoom.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.frmAdminDashboard.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCategories.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCheckOut.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmDeaCust.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmEditRoomsDetails.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmInventory.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmLogin.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmProducts.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmReceipt.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRecieptCheckout.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRoomPayment.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRooms.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmStatistics.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmTransactions.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.frmUserDashboard.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.Properties.Resources.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmUsers.resources
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.exe.manifest
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.application
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.CopyComplete
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.exe
+C:\Users\Administrator\Desktop\any store edit\version 12 reportr ALL working\anystore-master\AnyStore\obj\Debug\AnyStore.pdb
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\AnyStore.exe.config
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\AnyStore.exe.manifest
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\AnyStore.application
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\AnyStore.exe
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\AnyStore.pdb
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmAddCustmrToRoom.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.frmAdminDashboard.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCategories.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmCheckOut.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmDeaCust.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmEditRoomsDetails.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmInventory.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmLogin.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmProducts.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmReceipt.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRecieptCheckout.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRoomPayment.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmRooms.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmStatistics.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmTransactions.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.frmUserDashboard.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.Properties.Resources.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.UI.frmUsers.resources
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.exe.manifest
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.application
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.csproj.CopyComplete
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.exe
+C:\Users\Administrator\Desktop\any store edit\version 13 ALL working frm size edit to screen\anystore-master\AnyStore\obj\Debug\AnyStore.pdb
